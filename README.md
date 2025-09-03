@@ -13,7 +13,7 @@ Una empresa en expansión se enfrenta a tres desafíos comunes en su entorno de 
 
 La solución se basa en una jerarquía de gobierno que alinea la estructura de Azure con la estructura del negocio, permitiendo aplicar políticas de forma granular.
 
-![Diagrama-arquitectura](images/diagrama-arquitectura.png)
+![Diagrama-arquitectura](images/azure-governance-diagram.png)
 
 ## 🎯 Logros Clave
 
